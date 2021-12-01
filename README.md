@@ -1,0 +1,11 @@
+# Student-Management-System
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** FOR MORE PROJECTS :- https://www.youtube.com/channel/UCBq-TYj2qdyAGqb9QWs3OQg *****
+
+
+THANK YOU FOR DOWNLOADING :) 
