@@ -315,8 +315,9 @@ void student::deleted() // ddeleted data of student
         rename("record.txt", "studentRecord.txt");
     }
 }
-main()
+int main()
 {
     student project; // object
     project.menu();  //object calling
+    return 0;
 }
